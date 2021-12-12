@@ -1,0 +1,68 @@
+{
+    "Ankara" :{
+ 
+        "main": "Clear",
+        "description": "Clear sky",
+        "temp": 32,
+
+        "temp_min": 20,
+        "humidity": 30,
+        "visibility": 22000,
+        "wind": {
+            "speed": 1.5,
+            "deg": 120
+        }
+    },
+    "Lisbon":{
+        "main": "Cloudy",
+        "description": "Cloudy sky",
+        "temp": 22,
+
+        "temp_min": 16,
+        "humidity": 72,
+        "visibility": 11000,
+        "wind": {
+            "speed": 7.0,
+            "deg": 185
+        }
+    },
+    "Madrid":{
+        "main": "Rainy",
+        "description": "Rainy sky",
+        "temp": 18,
+
+        "temp_min": 10,
+        "humidity": 95,
+        "visibility": 1200,
+        "wind": {
+            "speed": 1.5,
+            "deg": 200
+        }
+    },
+    "London":{
+        "main": "Foggy",
+        "description": "Foggy sky",
+        "temp": 25,
+
+        "temp_min": 12,
+        "humidity": 80,
+        "visibility": 50,
+        "wind": {
+            "speed": 5.5,
+            "deg": 20
+        }
+    },
+    "Tokyo":{
+        "main": "Stormy",
+        "description": "Storm and Tsunami",
+        "temp": 20,
+
+        "temp_min": 10,
+        "humidity": 57,
+        "visibility": 16093,
+        "wind": {
+            "speed": 35,
+            "deg": 350
+        }
+    }
+}
